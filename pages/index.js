@@ -16,16 +16,15 @@ export default function Home() {
 
           Cuenta de ahorros Banco Pichincha  <br />
     <br />
-          Número de  cuenta 3220352100  <br />
-          Número de cédula 1716761372  <br />
-          Nombres Danilo Roberto Flores Miranda <br />
-          Correo dannygrfmetal@hotmail.com <br />
-          Teléfono 0962738860   <br />
+          Número de cuenta: 3220352100  <br />
+          Número de cédula: 1716761372  <br />
+          Nombres: Danilo Roberto Flores Miranda <br />
+          Correo: dannygrfmetal@hotmail.com <br />
+          Teléfono: 0962738860   <br />
     <br />
     <br />
           Cuenta de ahorros produbanco <br />
-          Número de cuenta 12798089828 <br />
-          Número de cédula 1716761372 <br />
+          Número de cuenta: 12798089828 <br />
        
         </p>
      
