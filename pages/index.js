@@ -13,8 +13,8 @@ export default function Home() {
       <main>
         <Header title="Gracias por comprar en Rock Socks" />
         <p className="description">
-       </p>
-          Cuenta de ahorros Banco Pichincha  
+
+          Cuenta de ahorros Banco Pichincha  <br />
           Número de  cuenta 3220352100  
           Número de cédula 1716761372  
           Nombres Danilo Roberto Flores Miranda 
@@ -23,7 +23,8 @@ export default function Home() {
           Cuenta de ahorros produbanco 
           Número de cuenta 12798089828
           Número de cédula 1716761372
-          
+       
+        </p>
      
       </main>
 
