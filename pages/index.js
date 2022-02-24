@@ -13,6 +13,7 @@ export default function Home() {
       <main>
         <Header title="Gracias por comprar en Rock Socks" />
         <p className="description">
+       </p>
           Cuenta de ahorros Banco Pichincha  <br>
           Número de  cuenta 3220352100  <br>
           Número de cédula 1716761372  <br>
@@ -25,7 +26,7 @@ export default function Home() {
           Número de cuenta 12798089828<br>
           Número de cédula 1716761372<br>
           
-        </p>
+     
       </main>
 
       <Footer />
